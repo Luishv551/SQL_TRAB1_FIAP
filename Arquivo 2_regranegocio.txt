@@ -1,0 +1,17 @@
+RN24
+
+O cliente terá níveis de acordo com a quantidade de estrelas, por isso foi alterado para que as estrelas sejam obrigatórias, diferente do mencionado nas regras 22 e 23. Esses níveis, ficarão da seguinte forma:
+Qtde. Compras  / Níveis
+1 estrela / Nível 1
+2 estrelas / Nível 2
+3 estrelas / Nível 3 
+4 estrelas / Nível 4
+5 estrelas / Nível 5
+
+Esse níveis, darão descontos nas compras do cliente. Os descontos serão assim:
+Nível 1 = Desconto 5%
+Nível 2 = Desconto 7%
+Nível 3 = Desconto 10%
+Nível 4 = Desconto 14%
+Nível 5 = Desconto 19%
+
